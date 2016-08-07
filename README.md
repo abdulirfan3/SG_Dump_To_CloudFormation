@@ -1,7 +1,6 @@
 Requirements:  
-Requires Troposphere (https://github.com/cloudtools/troposphere)
-
-Requires Boto
+- Requires Troposphere (https://github.com/cloudtools/troposphere)
+- Requires Boto
                 
 
 DESCRIPTION: 
