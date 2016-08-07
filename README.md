@@ -1,6 +1,8 @@
 Requirements:  
 - Requires Troposphere (https://github.com/cloudtools/troposphere)
 - Requires Boto
+- Change S3 Bucket Name
+- Make sure you have DescribeSecurityGroup, DescribeInstances IAM permissions
                 
 
 DESCRIPTION: 
